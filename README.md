@@ -1,3 +1,1 @@
 # tesed
-# designed
-# debuged
