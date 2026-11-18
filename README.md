@@ -1,3 +1,1 @@
 # designed
-# debuged
-# designed
